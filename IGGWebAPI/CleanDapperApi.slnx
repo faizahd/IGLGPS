@@ -1,6 +1,6 @@
 <Solution>
-  <Project Path="CleanDapperApi.Api/CleanDapperApi.Api.csproj" />
-  <Project Path="CleanDapperApi.Application/CleanDapperApi.Application.csproj" />
-  <Project Path="CleanDapperApi.Domain/CleanDapperApi.Domain.csproj" />
-  <Project Path="CleanDapperApi.Infrastructure/CleanDapperApi.Infrastructure.csproj" />
+  <Project Path="Application/Application.csproj" />
+  <Project Path="Domain/Domain.csproj" />
+  <Project Path="IGGWebAPI.csproj" />
+  <Project Path="Infrastructure/Infrastructure.csproj" />
 </Solution>
